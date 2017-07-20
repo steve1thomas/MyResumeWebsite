@@ -1,5 +1,5 @@
 /* ================================= 
-  JScript Elements refresh 
+  JScript Element refresh 
 ==================================== */
 const form = document.getElementByID('registrar');
 const input = form.querySelector('input');
