@@ -6,5 +6,6 @@ const input = form.querySelector('input');
 form.addEventListener('submit',(e) => {
    e.preventDefault ();
 const text=input.value;
- alert(input);
+ alert('Thank you for your Name and Number, will be in Contact with you!');
+  input.value="";
 });
